@@ -1,5 +1,5 @@
-body {
-  display: inline;
-  width: 50px;
-  background: grey;
+.body {
+  &__title {
+    color: red;
+  }
 }
